@@ -81,4 +81,5 @@ The following videos show the robot in action being controlled by the controller
 
 [Robot in action](https://drive.google.com/uc?export=view&id=1DwK7hSDSwVgKE-izbAIr8uxt_eV7dfFe)
 
+The robot and the remote:
 ![Final view](https://drive.google.com/uc?export=view&id=1ZIA33UqGZWWE3Iz-UP2s0RDuYN4fiUyp)
