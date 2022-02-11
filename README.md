@@ -74,4 +74,7 @@ The body of the [robot](https://drive.google.com/file/d/1rGY3SOgsJSn-j2y3Tnn8LuW
 * The camera rotates such that it will always look at what the water is being pumped at.
 
 ## Robot in action
-These videos [1](https://drive.google.com/file/d/1DwFFmvE7hbSujSrExHvpLHnWHBEZtXi6/view?usp=sharing) & [2](https://drive.google.com/file/d/1DwK7hSDSwVgKE-izbAIr8uxt_eV7dfFe/view?usp=sharing) show the robot in action being controlled by the controller and putting out small fires.
+The following videos show the robot in action being controlled by the controller and putting out small fires:
+
+[Video 1](https://drive.google.com/uc?export=view&id=1DwFFmvE7hbSujSrExHvpLHnWHBEZtXi6)
+[Video 2](https://drive.google.com/uc?export=view&id=1DwK7hSDSwVgKE-izbAIr8uxt_eV7dfFe)
