@@ -1,9 +1,9 @@
-![Cover Photo of the project](https://drive.google.com/uc?export=view&id=1n4yjdfQ19zOam5gqlFNfnjDna9pn8Vs7)
-
 # FireFighting Robot
 > Smart Remote-Controlled Firefighting Robot
 
 A fire is one of the most dangerous things that can happen in our lives and unfortunately it cannot be controlled in many cases, a single fire can destroy entire apartment blocks if left unattended for a long time, and with our constantly evolving cities firemen won’t be able to handle every fire that occurs, and that’s not taking into account that firemen usually get severely injured or burned.
+
+![Cover Photo of the project](https://drive.google.com/uc?export=view&id=1n4yjdfQ19zOam5gqlFNfnjDna9pn8Vs7)
 
 The aim of this project is to create a robot to fight fires in places where humans cannot, the user controls it from a safe distance to put out fires and save lives using a remote control while getting visual feedback from a camera, using its various sensors the user can be provided with information to help assess the situation and guide their decision making.
 
@@ -72,3 +72,6 @@ The body of the [robot](https://drive.google.com/file/d/1rGY3SOgsJSn-j2y3Tnn8LuW
 * Can be controlled from over 500 meters
 * Visual feedback and feedback from temperature sensor and ultarsonic sensor are reported to the user through the controller continously
 * The camera rotates such that it will always look at what the water is being pumped at.
+
+## Robot in action
+These videos [1](https://drive.google.com/file/d/1DwFFmvE7hbSujSrExHvpLHnWHBEZtXi6/view?usp=sharing) & [2](https://drive.google.com/file/d/1DwK7hSDSwVgKE-izbAIr8uxt_eV7dfFe/view?usp=sharing) show the robot in action being controlled by the controller and putting out small fires.
