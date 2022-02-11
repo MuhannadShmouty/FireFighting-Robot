@@ -76,6 +76,6 @@ The body of the [robot](https://drive.google.com/file/d/1rGY3SOgsJSn-j2y3Tnn8LuW
 ## Robot in action
 The following videos show the robot in action being controlled by the controller and putting out small fires:
 
-![Remote controller](https://drive.google.com/uc?export=view&id=1DwFFmvE7hbSujSrExHvpLHnWHBEZtXi6)
+[Remote controller](https://drive.google.com/uc?export=view&id=1DwFFmvE7hbSujSrExHvpLHnWHBEZtXi6)
 
-![Robot in action](https://drive.google.com/uc?export=view&id=1DwK7hSDSwVgKE-izbAIr8uxt_eV7dfFe)
+[Robot in action](https://drive.google.com/uc?export=view&id=1DwK7hSDSwVgKE-izbAIr8uxt_eV7dfFe)
