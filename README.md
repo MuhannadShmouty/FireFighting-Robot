@@ -52,6 +52,7 @@ radio.openReadingPipe(1, addresses[0]);
 The robot can operate easily using simple functions.
 
 ### Hardware
+![Circuits](https://drive.google.com/uc?export=view&id=1wCRMxLo1vw_WsexNgWQOpDmiTp9vu05Y)
 The robot opertes at `12V` as both the driving motors and the water pump operate at such voltage. Lithium-ion batteries are used to sypply the robot with power.
 
 The circuits required to operate the robot at such voltage needs certain protection to limit the current drawn from the batteries and to protect the components.
